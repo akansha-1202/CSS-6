@@ -93,6 +93,7 @@ h1{
     border:0px;
     border-radius:20px;
     padding:20px;
+    cursor:pointer;
 }
 p{
     line-height: 20px;
